@@ -1,3 +1,3 @@
 # hello-world
-frist learn github
+#frist learn github
 you know,I'm so happy because find github.
